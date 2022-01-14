@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/React-Portfolio/static/js/main.2a5cd5cf.js",
-    "static/js/787.cf250828.chunk.js": "/React-Portfolio/static/js/787.cf250828.chunk.js",
-    "static/media/logo.svg": "/React-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/React-Portfolio/static/css/main.8b326223.css",
+    "main.js": "/React-Portfolio/static/js/main.a013f95e.js",
+    "static/media/makeMyDay.png": "/React-Portfolio/static/media/makeMyDay.dd9f830c2b808cbfb552.png",
+    "static/media/work-scheduler.png": "/React-Portfolio/static/media/work-scheduler.0c502e40f5243c9841fc.png",
+    "static/media/cloudsource.png": "/React-Portfolio/static/media/cloudsource.a4a79c372d0c6ca6285f.png",
+    "static/media/passwordGen.png": "/React-Portfolio/static/media/passwordGen.26e19872df6edcb10de0.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.073c9b0a.css.map": "/React-Portfolio/static/css/main.073c9b0a.css.map",
-    "main.2a5cd5cf.js.map": "/React-Portfolio/static/js/main.2a5cd5cf.js.map",
-    "787.cf250828.chunk.js.map": "/React-Portfolio/static/js/787.cf250828.chunk.js.map"
+    "main.8b326223.css.map": "/React-Portfolio/static/css/main.8b326223.css.map",
+    "main.a013f95e.js.map": "/React-Portfolio/static/js/main.a013f95e.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2a5cd5cf.js"
+    "static/css/main.8b326223.css",
+    "static/js/main.a013f95e.js"
   ]
 }
