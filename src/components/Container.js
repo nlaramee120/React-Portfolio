@@ -33,7 +33,7 @@ export default function PortfolioContainer() {
       
       {renderPage()}
 
-    <Footer />
+    {/* <Footer /> */}
 
     </div>
   );

@@ -59,7 +59,10 @@ main {
 }
 
 ul {
+    display: flex;
+    justify-content: end;
     font-size: 25px;
+    list-style: none;
 }
 
 li {
