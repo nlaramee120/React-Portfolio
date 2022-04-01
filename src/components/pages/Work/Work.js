@@ -13,19 +13,22 @@ export default function Work() {
 
         <div class='item'>
           <a href="https://nlaramee120.github.io/day-planner/" target="_blank">
-            <img className="work-img" alt='work-scheduler' src={Work1} /></a>Work Scheduler<p>A simple app that uses local storage to help plan your day</p></div>
+            <img className="work-img" alt='work-scheduler' src={Work1} /></a><h3>Work Scheduler</h3><p className='desc'>A simple calendar app that uses local storage to help plan your day.</p></div>
         <div class='item'>
           <a href="https://nlaramee120.github.io/Password-Generator/" target="_blank">
-          <img className="work-img" alt='password-generator' src={Work2} /></a>Password Generator
+          <img className="work-img" alt='password-generator' src={Work2} /></a><h3>Password Generator</h3><p className='desc'>Password Generator allows user to choose character
+                          specifications, in which after, a random password is
+                          generated.</p>
         </div>
         <div class='break'></div>
         <div class='item'>
         <a href="https://nlaramee120.github.io/Make-My-Day/" target="_blank">
-        <img className="work-img" alt='make-my-day' src={Work3} /></a>Make My Day
+        <img className="work-img" alt='make-my-day' src={Work3} /></a><h3>Make My Day</h3><p className='desc'>Make My Day is an application that allows users to search for social, sport, or music events by city or 
+                          user's current location using the SeatGeak API.</p>
         </div>
         <div class='item'>
           <a href="https://sheltered-sierra-22318.herokuapp.com/" target="_blank">
-           <img className="work-img" alt='cloudsource' width="1000" height="200" src={Work4} /></a>CloudSource
+           <img className="work-img" alt='cloudsource' width="1000" height="200" src={Work4} /></a><h3>CloudSource</h3><p className='desc'>A simple job board application where employers can search through a database of potential developers and filter through information about them to suit their needs for their projects.</p>
         </div>
 
 
