@@ -3,9 +3,8 @@ import NavTabs from './NavTabs';
 import Home from './Home/Home';
 import Work from './pages/Work/Work';
 import Resume from './pages/Resume/Resume';
-import Contact from './pages/Contact';
+import Contact from './pages/Contact/Contact';
 import Footer from './pages/Footer/Footer';
-import '../style.css'
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('About');

@@ -1,0 +1,12 @@
+.resume-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: midnightblue;
+    height: 1000px;
+}
+
+.resume-header {
+    color: white;
+    transform: rotate(-90deg)
+}
