@@ -1,0 +1,25 @@
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: midnightblue;
+    height: 1000px;
+    color: #fff;
+}
+
+.contact-header {
+    padding: 50px;
+}
+
+.contact-ul {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    color: #fff;
+}
+
+.contact-li {
+    padding: 25px;
+    text-decoration: none;
+}

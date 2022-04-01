@@ -1,7 +1,29 @@
+.container {
+    background-color: midnightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+}
+
+.header {
+    color: #fff;
+}
+
 .profileDiv {
-    width: 80%
+    width: 80%;
+}
+
+.bio {
+    display: flex;
+    width: 80%;
+    padding: 15px;
+    color: #fff;
+    font-size: xx-large;
 }
 
 .profile {
-    float: right;
+    padding-top: 50px;
+    filter: drop-shadow(10px 10px 10px black)
 }
